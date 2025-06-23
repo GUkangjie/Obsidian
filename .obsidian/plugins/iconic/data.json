@@ -1,0 +1,66 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showMenuActions": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Go": {
+      "icon": "lucide-play",
+      "color": "orange",
+      "unsynced": [
+        "d0a8e97c89309fbf",
+        "3501840a745009c2"
+      ]
+    },
+    "Obsidian Vault Git 同步配置流程.md": {
+      "color": "orange"
+    },
+    "Python": {
+      "icon": "lucide-play",
+      "color": "orange",
+      "unsynced": [
+        "d0a8e97c89309fbf",
+        "3501840a745009c2"
+      ]
+    },
+    "Python/python使用.md": {
+      "color": "blue"
+    },
+    "Python/python函数.md": {
+      "color": "blue"
+    },
+    "Python/列表操作.md": {
+      "color": "blue"
+    },
+    "Python/未命名.md": {
+      "color": "blue"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

@@ -1,0 +1,39 @@
+/* 一级文件夹（Level 1） */
+.nav-folder-children > .nav-folder > .nav-folder-title {
+    background-color: #d0ebff; /* 浅蓝 */
+    color: #1c3f60;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 2px 8px;
+    margin: 2px 0;
+  }
+  
+  /* 二级文件夹（Level 2） */
+  .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-title {
+    background-color: #d3f9d8; /* 浅绿 */
+    color: #1e4620;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 2px 8px;
+    margin: 2px 0;
+  }
+  
+  /* 三级文件夹（Level 3） */
+  .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-title {
+    background-color: #fff3bf; /* 浅黄 */
+    color: #665c00;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 2px 8px;
+    margin: 2px 0;
+  }
+  
+  /* 所有文件的背景色 */
+  .nav-folder .nav-file-title {
+    background-color: #f1f3f5; /* 浅灰 */
+    color: #495057;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin: 1px 0;
+  }
+  
