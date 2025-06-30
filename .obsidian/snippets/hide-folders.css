@@ -1,0 +1,5 @@
+/* 隐藏 .attachments 和 img 文件夹（可按需添加） */
+.nav-folder-title[data-path^=".attachments"],
+.nav-folder-title[data-path^="img"] {
+  display: none !important;
+}

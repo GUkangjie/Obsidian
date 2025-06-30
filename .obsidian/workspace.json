@@ -4,53 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "e75e073e703873c2",
+        "id": "42126fb4923dfc2f",
         "type": "tabs",
         "children": [
           {
-            "id": "c084ba5d4b92bb0a",
+            "id": "fa495e146bd3e415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/列表操作.md",
+                "file": "Python/集合（set）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "列表操作"
+              "title": "集合（set）"
             }
           },
           {
-            "id": "3f78da4c71665b65",
+            "id": "e0f7dd29617384fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/列表操作.md",
+                "file": "Python/python使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "列表操作"
+              "title": "python使用"
             }
           },
           {
-            "id": "cc7245a01ab79f69",
+            "id": "05c9b927622d7c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git教程.md",
+                "file": "Python/python函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git教程"
+              "title": "python函数"
             }
           },
           {
-            "id": "8f757e2d03b186ee",
+            "id": "646633c67560d7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/函数实战.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数实战"
+            }
+          },
+          {
+            "id": "e1aba144c87b84da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git教程.md",
+                "file": "Python/集合（set）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git教程 的反向链接列表"
+              "title": "集合（set） 的反向链接列表"
             }
           },
           {
@@ -196,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -212,16 +226,29 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "8f757e2d03b186ee",
+  "active": "e1aba144c87b84da",
   "lastOpenFiles": [
-    "Pasted image 20250623162914.png",
-    "Python/列表操作.md",
-    "Obsidian Vault Git 同步配置流程.md",
-    "Go",
-    "Python/未命名.md",
-    "Python/未命名",
+    "单测case.md",
+    "Python/函数实战.md",
     "Python/python函数.md",
+    "Python/集合（set）.md",
+    "Python/try｜except.md",
+    "Pasted image 20250630100038.png",
     "Python/python使用.md",
-    "Python"
+    "Python/字符串的操作.md",
+    "Python/字典.md",
+    "Obsidian Vault Git 同步配置流程.md",
+    "Pasted image 20250627101422.png",
+    "sdk增收.md",
+    "Pasted image 20250624183315.png",
+    "Pasted image 20250623162914.png",
+    "Python/元组.md",
+    "Pasted image 20250623164827.png",
+    "Pasted image 20250623162914.png.md",
+    "Python/列表操作.md",
+    "Python",
+    "Pasted image 20250623164813.png",
+    "Go",
+    "Python/未命名"
   ]
 }

@@ -4,5 +4,8 @@
   "interfaceFontFamily": "Consolas",
   "monospaceFontFamily": "Consolas",
   "translucency": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "hide-folders"
+  ],
+  "textFontFamily": "Apple Color Emoji"
 }

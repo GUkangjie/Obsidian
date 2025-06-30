@@ -38,11 +38,10 @@
     },
     "Python": {
       "icon": "lucide-play",
-      "color": "orange",
       "unsynced": [
-        "d0a8e97c89309fbf",
         "3501840a745009c2"
-      ]
+      ],
+      "color": "orange"
     },
     "Python/python使用.md": {
       "color": "blue"
@@ -50,10 +49,25 @@
     "Python/python函数.md": {
       "color": "blue"
     },
+    "Python/try｜except.md": {
+      "color": "blue"
+    },
+    "Python/元组.md": {
+      "color": "blue"
+    },
+    "Python/函数实战.md": {
+      "color": "blue"
+    },
     "Python/列表操作.md": {
       "color": "blue"
     },
-    "Python/未命名.md": {
+    "Python/字典.md": {
+      "color": "blue"
+    },
+    "Python/字符串的操作.md": {
+      "color": "blue"
+    },
+    "Python/集合（set）.md": {
       "color": "blue"
     }
   },
