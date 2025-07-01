@@ -36,6 +36,13 @@
     "Obsidian Vault Git 同步配置流程.md": {
       "color": "orange"
     },
+    "PHP": {
+      "icon": "lucide-play",
+      "unsynced": [
+        "3501840a745009c2"
+      ],
+      "color": "orange"
+    },
     "Python": {
       "icon": "lucide-play",
       "unsynced": [
