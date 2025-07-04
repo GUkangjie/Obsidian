@@ -76,6 +76,13 @@
     },
     "Python/集合（set）.md": {
       "color": "blue"
+    },
+    "测试笔记": {
+      "icon": "lucide-notebook-pen",
+      "unsynced": [
+        "3501840a745009c2"
+      ],
+      "color": "green"
     }
   },
   "bookmarkIcons": {},

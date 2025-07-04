@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "764a5466e65d0bfd",
+        "id": "20adc3afb5322e36",
         "type": "tabs",
         "children": [
           {
-            "id": "7c304a429ba3d6bc",
+            "id": "0553532415c26b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/集合（set）.md",
+                "file": "Obsidian Vault Git 同步配置流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "集合（set） 的反向链接列表"
+              "title": "Obsidian Vault Git 同步配置流程 的反向链接列表"
             }
           },
           {
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,36 +168,40 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "7c304a429ba3d6bc",
+  "active": "0553532415c26b37",
   "lastOpenFiles": [
-    "PHP/php变量.md",
+    "Pasted image 20250630100038.png",
+    "Pasted image 20250701103830.png",
+    "Pasted image 20250701103008.png",
     "Python/python函数.md",
     "Python/函数实战.md",
+    "测试笔记/URL编码和解码.md",
+    "Pasted image 20250703185135.png",
+    "放量跟进.md",
+    "未命名.canvas",
+    "未命名看板.md",
+    "Pasted image 20250703160546.png",
+    "Pasted image 20250703105931.png",
+    "Pasted image 20250701104059.png",
+    "Pasted image 20250701165833.png",
+    "Obsidian Vault Git 同步配置流程.md",
+    "测试笔记",
+    "PHP/php变量.md",
     "Python/python使用.md",
     "PHP/php基本规则.md",
-    "放量跟进.md",
     "PHP",
     "Python/字典.md",
     "Pasted image 20250701104522.png",
-    "Pasted image 20250701104059.png",
-    "Pasted image 20250701103830.png",
-    "Pasted image 20250701103008.png",
     "单测case.md",
-    "Obsidian Vault Git 同步配置流程.md",
     "Python/集合（set）.md",
     "Python/try｜except.md",
-    "Pasted image 20250630100038.png",
     "Python/字符串的操作.md",
     "Pasted image 20250627101422.png",
     "sdk增收.md",
-    "Pasted image 20250624183315.png",
-    "Pasted image 20250623162914.png",
     "Python/元组.md",
-    "Pasted image 20250623164827.png",
     "Pasted image 20250623162914.png.md",
     "Python/列表操作.md",
     "Python",
-    "Pasted image 20250623164813.png",
     "Go",
     "Python/未命名"
   ]
