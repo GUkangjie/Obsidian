@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "attachmentFolderPath": "/",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true
 }

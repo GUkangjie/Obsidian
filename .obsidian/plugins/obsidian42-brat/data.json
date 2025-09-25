@@ -1,0 +1,20 @@
+{
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [
+    {
+      "repo": "AnubisNekhet/AnuPpuccin",
+      "lastUpdate": "31658015"
+    }
+  ],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
+}

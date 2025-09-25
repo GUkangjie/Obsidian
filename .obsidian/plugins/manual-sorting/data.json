@@ -1,0 +1,79 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Pasted image 20250925225738.png",
+      "Pasted image 20250925225703.png",
+      "Pasted image 20250925225553.png",
+      "Pasted image 20250925225112.png",
+      "Pasted image 20250925224955.png",
+      "Pasted image 20250925224652.png",
+      "Pasted image 20250925224534.png",
+      "Pasted image 20250925224436.png",
+      "Pasted image 20250925224119.png",
+      "Pasted image 20250925224105.png",
+      "Pasted image 20250925214631.png",
+      "Pasted image 20250925213936.png",
+      "Pasted image 20250925213226.png",
+      "QA skiills",
+      "测试笔记",
+      "Go",
+      "Linux",
+      "PHP",
+      "Python",
+      "Obsidian Vault Git 同步配置流程.md",
+      "Pasted image 20250623162914.png",
+      "Pasted image 20250623164827.png",
+      "Pasted image 20250624183315.png",
+      "Pasted image 20250627101422.png",
+      "Pasted image 20250630100038.png",
+      "Pasted image 20250701103008.png",
+      "Pasted image 20250701103830.png",
+      "Pasted image 20250701104059.png",
+      "Pasted image 20250701104522.png",
+      "Pasted image 20250701165833.png",
+      "Pasted image 20250703105931.png",
+      "Pasted image 20250703185135.png",
+      "Pasted image 20250707104428.png",
+      "Pasted image 20250707105248.png",
+      "Pasted image 20250707162252.png",
+      "Pasted image 20250707170346.png"
+    ],
+    "测试笔记": [
+      "测试笔记/URL编码和解码.md",
+      "测试笔记/ODP项目流程熟悉.md"
+    ],
+    "Go": [],
+    "Linux": [
+      "Linux/处理目录的常用命令.md"
+    ],
+    "PHP": [
+      "PHP/php基本规则.md",
+      "PHP/php变量.md"
+    ],
+    "Python": [
+      "Python/python使用.md",
+      "Python/python函数.md",
+      "Python/列表操作.md",
+      "Python/元组.md",
+      "Python/字符串的操作.md",
+      "Python/集合（set）.md",
+      "Python/字典.md",
+      "Python/try｜except.md",
+      "Python/函数实战.md",
+      "Python/Python常见函数的使用.md",
+      "Python/装饰器.md",
+      "Python/文件读写处理.md"
+    ],
+    "QA skiills": [
+      "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
+      "QA skiills/Postman学习笔记.md",
+      "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
+      "QA skiills/面试题"
+    ],
+    "QA skiills/面试题": [
+      "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}

@@ -19,7 +19,7 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -32,6 +32,13 @@
         "d0a8e97c89309fbf",
         "3501840a745009c2"
       ]
+    },
+    "Linux": {
+      "icon": "lucide-play",
+      "unsynced": [
+        "3501840a745009c2"
+      ],
+      "color": "orange"
     },
     "Obsidian Vault Git 同步配置流程.md": {
       "color": "orange"
@@ -49,6 +56,10 @@
         "3501840a745009c2"
       ],
       "color": "orange"
+    },
+    "Python/Python常见函数的使用.md": {
+      "icon": "lucide-square-function",
+      "color": "pink"
     },
     "Python/python使用.md": {
       "color": "blue"
@@ -74,8 +85,23 @@
     "Python/字符串的操作.md": {
       "color": "blue"
     },
+    "Python/文件读写处理.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Python/装饰器.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
     "Python/集合（set）.md": {
       "color": "blue"
+    },
+    "QA skiills": {
+      "icon": "lucide-chevrons-right-left",
+      "color": "gray",
+      "unsynced": [
+        "3501840a745009c2"
+      ]
     },
     "测试笔记": {
       "icon": "lucide-notebook-pen",

@@ -5,7 +5,12 @@
   "monospaceFontFamily": "Consolas",
   "translucency": true,
   "enabledCssSnippets": [
-    "hide-folders"
+    "extended-colorschemes",
+    "表格优化",
+    "预览模式优化-空白行-行间距",
+    "yaozhuwa@CSS",
+    "段落首行缩进"
   ],
-  "textFontFamily": "Apple Color Emoji"
+  "textFontFamily": "Apple Color Emoji",
+  "cssTheme": "AnuPpuccin"
 }

@@ -1,6 +1,12 @@
 <mark style="background: #FF5582A6;">学习website：</mark>
+菜鸟教程
 [https://www.runoob.com/python3/python3-data-type.html](https://www.runoob.com/python3/python3-data-type.html)
+github
 https://github.com/jackfrued/Python-100-Days/blob/master/
+python学习路线
+https://javabetter.cn/xuexiluxian/python.html
+pyton3官网指南
+https://python3-cookbook.readthedocs.io/zh-cn/latest/c01/p01_unpack_sequence_into_separate_variables.html
 <mark style="background: #FF5582A6;">查看python版本：</mark>
     `python —version`
 <span style="background:#fdbfff"><font color="#ff0000">python注释</font></span>
@@ -24,6 +30,7 @@ https://github.com/jackfrued/Python-100-Days/blob/master/
 [保留或筛选数据项]----提取句子中的字母
 [做一些变换]---列表中所有数平方
 [排序、过滤数据]---过滤掉小于0点数
+![[Pasted image 20250707105248.png]]
 字典推导式
 <font color="#ff0000">**{key: value for key, value in dict.items() if 条件}**</font>
 [对原字典过滤]---选出符合条件的键值对

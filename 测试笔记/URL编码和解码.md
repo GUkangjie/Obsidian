@@ -1,4 +1,4 @@
-##### URL Encode（编码）：
+URL Encode（编码）：
 把特殊字符转换为网络传输安全的格式（ASCII 字符）
 ![[Pasted image 20250701165833.png]]
 ##### URL Decode（解码）：

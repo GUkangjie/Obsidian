@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20adc3afb5322e36",
+        "id": "5c734f3a277c1c90",
         "type": "tabs",
         "children": [
           {
-            "id": "0553532415c26b37",
+            "id": "5e354e3aeb6ab408",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.00312423706055
   },
   "right": {
     "id": "9b8f985f333ec797",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault Git 同步配置流程.md",
+                "file": "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian Vault Git 同步配置流程 的反向链接列表"
+              "title": "Charles安装及使用教程-请求抓包Https配置 的反向链接列表"
             }
           },
           {
@@ -141,22 +141,35 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian Vault Git 同步配置流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian Vault Git 同步配置流程 的大纲"
+            }
+          },
+          {
+            "id": "32f0985fe829379d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 399
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -165,44 +178,58 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-kanban:创建新看板": false,
-      "iconic:打开规则书": false
+      "iconic:打开规则书": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0553532415c26b37",
+  "active": "5e354e3aeb6ab408",
   "lastOpenFiles": [
-    "Pasted image 20250630100038.png",
-    "Pasted image 20250701103830.png",
-    "Pasted image 20250701103008.png",
-    "Python/python函数.md",
-    "Python/函数实战.md",
+    "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
+    "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
+    "Pasted image 20250925225738.png",
+    "Pasted image 20250925225703.png",
+    "Pasted image 20250925225553.png",
+    "Pasted image 20250925225112.png",
+    "Pasted image 20250925224955.png",
+    "Pasted image 20250925224652.png",
+    "Pasted image 20250925224534.png",
+    "Pasted image 20250925224436.png",
+    "Pasted image 20250925224119.png",
+    "Pasted image 20250925224105.png",
+    "测试笔记/ODP项目流程熟悉.md",
+    "QA skiills/未命名.canvas",
     "测试笔记/URL编码和解码.md",
-    "Pasted image 20250703185135.png",
-    "放量跟进.md",
-    "未命名.canvas",
-    "未命名看板.md",
-    "Pasted image 20250703160546.png",
-    "Pasted image 20250703105931.png",
-    "Pasted image 20250701104059.png",
-    "Pasted image 20250701165833.png",
-    "Obsidian Vault Git 同步配置流程.md",
-    "测试笔记",
-    "PHP/php变量.md",
+    "QA skiills/面试题",
+    "QA skiills/Postman学习笔记.md",
+    "测试笔记/测试现阶段遇到的痛点如何改善.md",
+    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
+    "QA skiills/Markdown/未命名.md",
+    "QA skiills/Markdown/未命名 1.md",
+    "Python/Python常见函数的使用.md",
     "Python/python使用.md",
-    "PHP/php基本规则.md",
-    "PHP",
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
     "Python/字典.md",
-    "Pasted image 20250701104522.png",
-    "单测case.md",
-    "Python/集合（set）.md",
-    "Python/try｜except.md",
-    "Python/字符串的操作.md",
-    "Pasted image 20250627101422.png",
-    "sdk增收.md",
+    "Python/函数实战.md",
     "Python/元组.md",
-    "Pasted image 20250623162914.png.md",
     "Python/列表操作.md",
-    "Python",
-    "Go",
-    "Python/未命名"
+    "Python/python函数.md",
+    "Obsidian Vault Git 同步配置流程.md",
+    "测试.md",
+    "Linux/处理目录的常用命令.md",
+    "QA skiills",
+    "MarkDown超级教程 Obsidian版 2022.1.12.pdf",
+    "Python/未命名.md",
+    "QA skiills/Markdown",
+    "未命名.md",
+    "Python/文件读写处理.md",
+    "Python/装饰器.md",
+    "Linux",
+    "PHP/php变量.md",
+    "PHP/php基本规则.md",
+    "Python/try｜except.md",
+    "未命名.canvas"
   ]
 }
