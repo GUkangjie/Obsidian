@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
-                "mode": "preview",
+                "file": "QA skiills/面试题/Bug.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你做过客户端测试还是服务端测试？"
+              "title": "Bug"
             }
           }
         ]
@@ -184,8 +184,11 @@
   },
   "active": "011902d948d186a0",
   "lastOpenFiles": [
-    "Obsidian/Obsidian Vault Git 同步配置流程.md",
+    "Pasted image 20250926164431.png",
+    "Pasted image 20250926164251.png",
     "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
+    "QA skiills/面试题/Bug.md",
+    "Obsidian/Obsidian Vault Git 同步配置流程.md",
     "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
     "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
     "QA skiills/Postman学习笔记.md",
@@ -216,7 +219,6 @@
     "css分享.zip.md",
     "Pasted image 20250925225112.png",
     "Pasted image 20250925225553.png",
-    "Pasted image 20250925225703.png",
     "QA skiills/未命名.canvas",
     "测试笔记/URL编码和解码.md",
     "测试笔记/测试现阶段遇到的痛点如何改善.md",
@@ -229,8 +231,6 @@
     "Linux/处理目录的常用命令.md",
     "Python/未命名.md",
     "Python/文件读写处理.md",
-    "Python/装饰器.md",
-    "PHP/php变量.md",
     "未命名.canvas"
   ]
 }

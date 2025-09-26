@@ -1,6 +1,8 @@
 {
   "customFileOrder": {
     "/": [
+      "Pasted image 20250926164431.png",
+      "Pasted image 20250926164251.png",
       "QA skiills",
       "测试笔记",
       "Python",
@@ -91,6 +93,7 @@
       "QA skiills/面试题"
     ],
     "QA skiills/面试题": [
+      "QA skiills/面试题/Bug.md",
       "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
       "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md"
     ]
