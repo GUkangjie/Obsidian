@@ -40,8 +40,18 @@
       ],
       "color": "orange"
     },
-    "Obsidian Vault Git 同步配置流程.md": {
+    "Obsidian": {
+      "icon": "obsidian-new",
+      "unsynced": [
+        "3501840a745009c2"
+      ]
+    },
+    "Obsidian/Obsidian Vault Git 同步配置流程.md": {
       "color": "orange"
+    },
+    "Obsidian/Obsidian退烧教程.md": {
+      "icon": "lucide-file",
+      "color": "red"
     },
     "PHP": {
       "icon": "lucide-play",
@@ -82,7 +92,7 @@
     "Python/字典.md": {
       "color": "blue"
     },
-    "Python/字符串的操作.md": {
+    "Python/字符串.md": {
       "color": "blue"
     },
     "Python/文件读写处理.md": {
@@ -97,8 +107,8 @@
       "color": "blue"
     },
     "QA skiills": {
-      "icon": "lucide-chevrons-right-left",
-      "color": "gray",
+      "icon": "lucide-clipboard-pen-line",
+      "color": "orange",
       "unsynced": [
         "3501840a745009c2"
       ]

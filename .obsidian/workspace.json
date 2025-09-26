@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c734f3a277c1c90",
+        "id": "8aafc29eb66f914c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e354e3aeb6ab408",
+            "id": "011902d948d186a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault Git 同步配置流程.md",
+                "file": "Obsidian/Obsidian Vault Git 同步配置流程.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.00312423706055
+    "width": 338.00312423706055
   },
   "right": {
     "id": "9b8f985f333ec797",
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault Git 同步配置流程.md",
+                "file": "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian Vault Git 同步配置流程 的大纲"
+              "title": "你做过客户端测试还是服务端测试？ 的大纲"
             }
           },
           {
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399
+    "width": 340
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,54 +182,55 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5e354e3aeb6ab408",
+  "active": "011902d948d186a0",
   "lastOpenFiles": [
+    "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
     "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
     "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
-    "Pasted image 20250925225738.png",
-    "Pasted image 20250925225703.png",
-    "Pasted image 20250925225553.png",
+    "QA skiills/Postman学习笔记.md",
+    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
+    "Pasted image 20250926105537.png",
+    "Pasted image 20250926110119.png",
+    "Pasted image 20250926105356.png",
+    "Pasted image 20250926105059.png",
+    "Pasted image 20250926105030.png",
+    "Pasted image 20250926105025.png",
+    "Pasted image 20250926105015.png",
+    "Python/函数实战.md",
+    "Python/Python常见函数的使用.md",
+    "Python/python函数.md",
+    "Python/字符串.md",
+    "Python/python使用.md",
+    "PHP/ODP项目流程熟悉.md",
+    "Obsidian/Obsidian退烧教程.md",
+    "Obsidian/css分享/预览模式优化-空白行-行间距.css",
+    "Obsidian/css分享/表格优化.css",
+    "Obsidian/css分享/网格背景.css",
+    "Obsidian/css分享/段落首行缩进.css",
+    "Obsidian/css分享/yaozhuwa@CSS.css",
+    "Obsidian/css分享/AnuExtendTheme.css",
+    "Obsidian/css分享",
+    "Obsidian",
+    "css分享.zip",
+    "css分享.zip.md",
+    "Obsidian/Obsidian Vault Git 同步配置流程.md",
     "Pasted image 20250925225112.png",
-    "Pasted image 20250925224955.png",
-    "Pasted image 20250925224652.png",
-    "Pasted image 20250925224534.png",
-    "Pasted image 20250925224436.png",
-    "Pasted image 20250925224119.png",
-    "Pasted image 20250925224105.png",
-    "测试笔记/ODP项目流程熟悉.md",
+    "Pasted image 20250925225553.png",
+    "Pasted image 20250925225703.png",
     "QA skiills/未命名.canvas",
     "测试笔记/URL编码和解码.md",
-    "QA skiills/面试题",
-    "QA skiills/Postman学习笔记.md",
     "测试笔记/测试现阶段遇到的痛点如何改善.md",
-    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
     "QA skiills/Markdown/未命名.md",
     "QA skiills/Markdown/未命名 1.md",
-    "Python/Python常见函数的使用.md",
-    "Python/python使用.md",
-    "未命名 3.base",
-    "未命名 2.base",
-    "未命名 1.base",
-    "未命名.base",
     "Python/字典.md",
-    "Python/函数实战.md",
     "Python/元组.md",
     "Python/列表操作.md",
-    "Python/python函数.md",
-    "Obsidian Vault Git 同步配置流程.md",
     "测试.md",
     "Linux/处理目录的常用命令.md",
-    "QA skiills",
-    "MarkDown超级教程 Obsidian版 2022.1.12.pdf",
     "Python/未命名.md",
-    "QA skiills/Markdown",
-    "未命名.md",
     "Python/文件读写处理.md",
     "Python/装饰器.md",
-    "Linux",
     "PHP/php变量.md",
-    "PHP/php基本规则.md",
-    "Python/try｜except.md",
     "未命名.canvas"
   ]
 }

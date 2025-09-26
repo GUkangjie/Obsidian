@@ -11,7 +11,7 @@ gh auth login依次选择：
 - gh auth status检查是否登陆
 ```
 ![[Pasted image 20250623162914.png]]
-3. 本地目录为<mark style="background: #D2B3FFA6;">/Users/v_gukangjie/Documents/Obsidian</mark>
+3. 本地目录为<mark style="background: #D2B3FFA6;">/Users/v_gukangjie/Documents/Obsidian</mark>【不需要重复初始化】
 ```git
 cd /Users/v_gukangjie/Documents/Obsidian
 git init

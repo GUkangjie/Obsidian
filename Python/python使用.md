@@ -1,16 +1,12 @@
-<mark style="background: #FF5582A6;">学习website：</mark>
-菜鸟教程
-[https://www.runoob.com/python3/python3-data-type.html](https://www.runoob.com/python3/python3-data-type.html)
-github
-https://github.com/jackfrued/Python-100-Days/blob/master/
-python学习路线
-https://javabetter.cn/xuexiluxian/python.html
-pyton3官网指南
-https://python3-cookbook.readthedocs.io/zh-cn/latest/c01/p01_unpack_sequence_into_separate_variables.html
-<mark style="background: #FF5582A6;">查看python版本：</mark>
-    `python —version`
-<span style="background:#fdbfff"><font color="#ff0000">python注释</font></span>
-<font color="#fac08f">多行注释 """...""" 要缩进，放在函数最前面，不影响代码结构</font>
+**学习网站分享：**
+[菜鸟教程]([https://www.runoob.com/python3/python3-data-type.html](https://www.runoob.com/python3/python3-data-type.html))
+[github](https://github.com/jackfrued/Python-100-Days/blob/master/)
+[python学习路线](https://javabetter.cn/xuexiluxian/python.html)
+[pyton3官网指南](https://python3-cookbook.readthedocs.io/zh-cn/latest/c01/p01_unpack_sequence_into_separate_variables.html)
+**查看python版本：**
+    `python —version
+**python注释**
+<font color="#000000">多行注释 """...""" 要缩进，放在函数最前面，不影响代码结构</font>
 ```python
   """"
   #内嵌注释  
@@ -35,13 +31,13 @@ https://python3-cookbook.readthedocs.io/zh-cn/latest/c01/p01_unpack_sequence_int
 <font color="#ff0000">**{key: value for key, value in dict.items() if 条件}**</font>
 [对原字典过滤]---选出符合条件的键值对
 [重新构造字典]---把一个列表展位字典
-[映射转换]---把键值都进行某种处理
+[映射转换]---把键值都进行某种处理<p align="left"><center><p align="left"><p align="right"></p></p></center></p>
 
-| 数据结构        | 可变性   | 是否有序    | 是否可重复  | 主要特点               |     |
-| ----------- | ----- | ------- | ------ | ------------------ | --- |
-| `list`（列表）  | ✅ 可变  | ✅ 有序    | ✅ 可重复  | 支持增删改查、切片、排序等操作    |     |
-| `tuple`（元组） | ❌ 不可变 | ✅ 有序    | ✅ 可重复  | 占用内存少，可作字典键、不可变集合  |     |
-| `dict`（字典）  | ✅ 可变  | ✅（3.7+） | ❌ 键唯一  | 通过 key 快速查值，灵活映射结构 |     |
-| `set`（集合）   | ✅ 可变  | ❌ 无序    | ❌ 自动去重 | 集合运算（交并差），元素唯一     |     |
-| `str`（字符串）  | ❌ 不可变 | ✅ 有序    | ✅ 可重复  | 支持切片、查找、替换、格式化     |     |
+| 数据结构        | 可变性   | 是否有序    | 是否可重复  | 主要特点               |
+| ----------- | ----- | ------- | ------ | ------------------ |
+| `list`（列表）  | ✅ 可变  | ✅ 有序    | ✅ 可重复  | 支持增删改查、切片、排序等操作    |
+| `tuple`（元组） | ❌ 不可变 | ✅ 有序    | ✅ 可重复  | 占用内存少，可作字典键、不可变集合  |
+| `dict`（字典）  | ✅ 可变  | ✅（3.7+） | ❌ 键唯一  | 通过 key 快速查值，灵活映射结构 |
+| `set`（集合）   | ✅ 可变  | ❌ 无序    | ❌ 自动去重 | 集合运算（交并差），元素唯一     |
+| `str`（字符串）  | ❌ 不可变 | ✅ 有序    | ✅ 可重复  | 支持切片、查找、替换、格式化     |
 **<font color="#ff0000">可变能改内容，有序能找位置</font>**
