@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8aafc29eb66f914c",
+        "id": "72fab0ab54baf184",
         "type": "tabs",
         "children": [
           {
-            "id": "011902d948d186a0",
+            "id": "4847c0274f58388f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250926164431.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250926164431"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -180,26 +178,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cecacfb6826c002",
+  "active": "4847c0274f58388f",
   "lastOpenFiles": [
+    "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
+    "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
+    "QA skiills/面试题/Bug.md",
+    "QA skiills/面试题/面试题2025.pdf",
+    "QA skiills/面试题/电商项目介绍.pdf",
+    "QA skiills/面试题/测试用例.pdf",
+    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
+    "QA skiills/面试题/电商项目介绍.md",
+    "Pasted image 20250926164431.png",
     "Pasted image 20250926164251.png",
     "Pasted image 20250926105059.png",
     "Pasted image 20250926105030.png",
     "Pasted image 20250926105537.png",
     "Pasted image 20250707170346.png",
     "Pasted image 20250623162914.png",
-    "QA skiills/面试题/Bug.md",
-    "Pasted image 20250926164431.png",
-    "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
     "Obsidian/Obsidian Vault Git 同步配置流程.md",
-    "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
     "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
     "QA skiills/Postman学习笔记.md",
-    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
     "Pasted image 20250926110119.png",
     "Pasted image 20250926105356.png",
     "Pasted image 20250926105025.png",
-    "Pasted image 20250926105015.png",
     "Python/函数实战.md",
     "Python/Python常见函数的使用.md",
     "Python/python函数.md",
@@ -213,9 +214,6 @@
     "Obsidian/css分享/段落首行缩进.css",
     "Obsidian/css分享/yaozhuwa@CSS.css",
     "Obsidian/css分享/AnuExtendTheme.css",
-    "Obsidian/css分享",
-    "Obsidian",
-    "css分享.zip",
     "css分享.zip.md",
     "QA skiills/未命名.canvas",
     "测试笔记/URL编码和解码.md",
@@ -228,7 +226,6 @@
     "测试.md",
     "Linux/处理目录的常用命令.md",
     "Python/未命名.md",
-    "Python/文件读写处理.md",
     "未命名.canvas"
   ]
 }
