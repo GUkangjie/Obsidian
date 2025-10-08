@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f67444b093eff12e",
+        "id": "8aafc29eb66f914c",
         "type": "tabs",
         "children": [
           {
-            "id": "efbf337400ab09da",
+            "id": "011902d948d186a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
+                "file": "雅思英语/洗手间用品英语单词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你觉得服务端测试对你来说对你挑战性比较大的是什么"
+              "title": "洗手间用品英语单词"
+            }
+          },
+          {
+            "id": "27b2471c77e001f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian Vault Git 同步配置流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Vault Git 同步配置流程"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "Obsidian/Obsidian Vault Git 同步配置流程.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Obsidian Vault Git 同步配置流程 的出链列表"
             }
           },
           {
@@ -161,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,19 +198,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "efbf337400ab09da",
+  "active": "27b2471c77e001f5",
   "lastOpenFiles": [
-    "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
-    "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
-    "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
-    "QA skiills/面试题/Bug.md",
-    "QA skiills/面试题/面试题2025.pdf",
-    "Python/python使用.md",
-    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
-    "Obsidian/Obsidian Vault Git 同步配置流程.md",
+    "雅思英语/生活用品英语单词.md",
+    "雅思英语/洗手间用品英语单词.md",
     "QA skiills/面试题/电商项目介绍.pdf",
+    "雅思英语",
     "QA skiills/面试题/测试用例.pdf",
-    "QA skiills/面试题/电商项目介绍.md",
+    "QA skiills/面试题/面试题2025.pdf",
+    "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
+    "QA skiills/面试题/Bug.md",
+    "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
+    "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
+    "Python/文件读写处理.md",
+    "Python/python自动化/pytest.md",
+    "Obsidian/Obsidian Vault Git 同步配置流程.md",
+    "Obsidian/Obsidian退烧教程.md",
+    "Python/python自动化",
     "Pasted image 20250926164431.png",
     "Pasted image 20250926164251.png",
     "Pasted image 20250926105059.png",
@@ -204,6 +224,7 @@
     "Pasted image 20250623162914.png",
     "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
     "QA skiills/Postman学习笔记.md",
+    "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
     "Pasted image 20250926110119.png",
     "Pasted image 20250926105356.png",
     "Pasted image 20250926105025.png",
@@ -211,14 +232,12 @@
     "Python/Python常见函数的使用.md",
     "Python/python函数.md",
     "Python/字符串.md",
+    "Python/python使用.md",
     "PHP/ODP项目流程熟悉.md",
-    "Obsidian/Obsidian退烧教程.md",
     "Obsidian/css分享/预览模式优化-空白行-行间距.css",
     "Obsidian/css分享/表格优化.css",
     "Obsidian/css分享/网格背景.css",
     "Obsidian/css分享/段落首行缩进.css",
-    "Obsidian/css分享/yaozhuwa@CSS.css",
-    "Obsidian/css分享/AnuExtendTheme.css",
     "css分享.zip.md",
     "QA skiills/未命名.canvas",
     "测试笔记/URL编码和解码.md",
@@ -228,9 +247,6 @@
     "Python/字典.md",
     "Python/元组.md",
     "Python/列表操作.md",
-    "测试.md",
-    "Linux/处理目录的常用命令.md",
-    "Python/未命名.md",
     "未命名.canvas"
   ]
 }

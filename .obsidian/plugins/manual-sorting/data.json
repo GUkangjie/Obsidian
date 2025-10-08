@@ -1,10 +1,10 @@
 {
   "customFileOrder": {
     "/": [
+      "雅思英语",
       "QA skiills",
       "测试笔记",
       "Python",
-      "Go",
       "Linux",
       "PHP",
       "Obsidian",
@@ -50,7 +50,10 @@
     "测试笔记": [
       "测试笔记/URL编码和解码.md"
     ],
-    "Go": [],
+    "雅思英语": [
+      "雅思英语/洗手间用品英语单词.md",
+      "雅思英语/生活用品英语单词.md"
+    ],
     "Linux": [
       "Linux/处理目录的常用命令.md"
     ],
@@ -73,6 +76,7 @@
       "PHP/php变量.md"
     ],
     "Python": [
+      "Python/python自动化",
       "Python/python使用.md",
       "Python/列表操作.md",
       "Python/元组.md",
@@ -86,6 +90,9 @@
       "Python/装饰器.md",
       "Python/文件读写处理.md"
     ],
+    "Python/python自动化": [
+      "Python/python自动化/pytest.md"
+    ],
     "QA skiills": [
       "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
       "QA skiills/Postman学习笔记.md",
@@ -93,11 +100,11 @@
       "QA skiills/面试题"
     ],
     "QA skiills/面试题": [
-      "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
       "QA skiills/面试题/测试用例.pdf",
       "QA skiills/面试题/电商项目介绍.pdf",
       "QA skiills/面试题/面试题2025.pdf",
       "QA skiills/面试题/Bug.md",
+      "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
       "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
       "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md"
     ]
