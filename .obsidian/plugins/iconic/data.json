@@ -119,6 +119,13 @@
         "3501840a745009c2"
       ],
       "color": "green"
+    },
+    "雅思英语": {
+      "icon": "lucide-file",
+      "color": "orange",
+      "unsynced": [
+        "3501840a745009c2"
+      ]
     }
   },
   "bookmarkIcons": {},
