@@ -2,6 +2,7 @@
   "customFileOrder": {
     "/": [
       "雅思英语",
+      "python自动化",
       "QA skiills",
       "测试笔记",
       "Python",
@@ -58,7 +59,8 @@
       "雅思英语/生活用品英语单词.md",
       "雅思英语/生活作息英语单词.md",
       "雅思英语/日常情景英语短语.md",
-      "雅思英语/身体动作英语单词.md"
+      "雅思英语/身体动作英语单词.md",
+      "雅思英语/聊天常用英语短语.md"
     ],
     "Go": [],
     "Linux": [
@@ -83,7 +85,6 @@
       "PHP/php变量.md"
     ],
     "Python": [
-      "Python/python自动化",
       "Python/python使用.md",
       "Python/列表操作.md",
       "Python/元组.md",
@@ -97,8 +98,16 @@
       "Python/装饰器.md",
       "Python/文件读写处理.md"
     ],
-    "Python/python自动化": [
-      "Python/python自动化/pytest.md"
+    "python自动化": [
+      "python自动化/pytest测试框架",
+      "python自动化/requests快速掌握.md",
+      "python自动化/日志、报告、插件等封装.md"
+    ],
+    "python自动化/pytest测试框架": [
+      "python自动化/pytest测试框架/pytest快速掌握.md",
+      "python自动化/pytest测试框架/pytest参数.md",
+      "python自动化/pytest测试框架/mark.md",
+      "python自动化/pytest测试框架/fixture.md"
     ],
     "QA skiills": [
       "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",

@@ -19,7 +19,7 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -109,6 +109,12 @@
     "QA skiills": {
       "icon": "lucide-clipboard-pen-line",
       "color": "orange",
+      "unsynced": [
+        "3501840a745009c2"
+      ]
+    },
+    "python自动化": {
+      "color": "red",
       "unsynced": [
         "3501840a745009c2"
       ]
