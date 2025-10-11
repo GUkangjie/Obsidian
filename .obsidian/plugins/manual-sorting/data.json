@@ -14,6 +14,8 @@
       "Pasted image 20250925224652.png",
       "Pasted image 20250926164431.png",
       "Pasted image 20250926164251.png",
+      "Pasted image 20251011151725.png",
+      "Pasted image 20251011151627.png",
       "Pasted image 20250926105030.png",
       "Pasted image 20250926105059.png",
       "Pasted image 20250925224105.png",
@@ -53,6 +55,7 @@
       "测试笔记/URL编码和解码.md"
     ],
     "雅思英语": [
+      "雅思英语/Student-Book-with-Answers.pdf",
       "雅思英语/肉食英语单词.md",
       "雅思英语/水果英语单词.md",
       "雅思英语/蔬菜英语单词.md",
@@ -60,9 +63,12 @@
       "雅思英语/生活作息英语单词.md",
       "雅思英语/日常情景英语短语.md",
       "雅思英语/身体动作英语单词.md",
-      "雅思英语/聊天常用英语短语.md"
+      "雅思英语/聊天常用英语短语.md",
+      "雅思英语/做饭常用动词.md"
     ],
-    "Go": [],
+    "Go": [
+      "Go/未命名.md"
+    ],
     "Linux": [
       "Linux/处理目录的常用命令.md"
     ],
@@ -99,6 +105,7 @@
       "Python/文件读写处理.md"
     ],
     "python自动化": [
+      "python自动化/接口自动化.md",
       "python自动化/pytest测试框架",
       "python自动化/requests快速掌握.md",
       "python自动化/日志、报告、插件等封装.md"
@@ -116,7 +123,7 @@
       "QA skiills/面试题"
     ],
     "QA skiills/面试题": [
-      "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
+      "QA skiills/面试题/你觉得服务端测试对你来说挑战性比较大的是什么.md",
       "QA skiills/面试题/测试用例.pdf",
       "QA skiills/面试题/电商项目介绍.pdf",
       "QA skiills/面试题/面试题2025.pdf",
