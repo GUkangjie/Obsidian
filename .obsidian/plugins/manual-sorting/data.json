@@ -1,9 +1,9 @@
 {
   "customFileOrder": {
     "/": [
-      "雅思英语",
       "python自动化",
       "QA skiills",
+      "雅思英语",
       "测试笔记",
       "Python",
       "Go",
@@ -88,9 +88,12 @@
     "PHP": [
       "PHP/ODP项目流程熟悉.md",
       "PHP/php基本规则.md",
-      "PHP/php变量.md"
+      "PHP/php变量.md",
+      "PHP/php数据类型.md",
+      "PHP/类型比较.md"
     ],
     "Python": [
+      "Python/python面试提问.md",
       "Python/python使用.md",
       "Python/列表操作.md",
       "Python/元组.md",
