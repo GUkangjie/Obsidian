@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d12d331d7a962eda",
+        "id": "00cfde7f07a4c051",
         "type": "tabs",
         "children": [
           {
-            "id": "2480f10f94691652",
+            "id": "291a0f2a92c11061",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雅思英语/肉食英语单词.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "肉食英语单词"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#实际运用：",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +123,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -161,11 +157,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 260,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,42 +180,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2480f10f94691652",
+  "active": "291a0f2a92c11061",
   "lastOpenFiles": [
+    "未命名 1.base",
+    "未命名.base",
+    "Pasted image 20251201231135.png",
+    "QA skiills/websocket接口.md",
+    "QA skiills/面试题/面试题2025.pdf",
+    "QA skiills/面试题/Bug.md",
+    "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
+    "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
+    "QA skiills/面试题/电商项目介绍.pdf",
+    "QA skiills/面试题/测试用例.pdf",
+    "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
+    "Linux/处理目录的常用命令.md",
+    "python自动化/日志、报告、插件等封装.md",
+    "python自动化/requests快速掌握.md",
+    "python自动化/pytest测试框架/pytest快速掌握.md",
+    "python自动化/pytest测试框架/pytest参数.md",
+    "python自动化/pytest测试框架/fixture.md",
+    "python自动化/pytest测试框架/mark.md",
     "雅思英语/蔬菜英语单词.md",
     "雅思英语/肉食英语单词.md",
-    "雅思英语/生活作息英语单词.md",
     "雅思英语/聊天常用英语短语.md",
-    "雅思英语/身体动作英语单词.md",
-    "雅思英语/水果英语单词.md",
-    "python自动化/requests快速掌握.md",
-    "python自动化/pytest测试框架/pytest参数.md",
-    "python自动化/pytest测试框架/mark.md",
-    "QA skiills/Postman学习笔记.md",
-    "python自动化/日志、报告、插件等封装.md",
-    "python自动化/pytest测试框架/pytest快速掌握.md",
-    "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
-    "QA skiills/Charles安装及使用教程-请求抓包Https配置.md",
-    "雅思英语/日常情景英语短语.md",
-    "雅思英语/生活用品英语单词.md",
-    "Python/字典.md",
     "python自动化/pytest测试框架",
-    "python自动化/pytest测试框架/fixture.md",
-    "Python/python自动化/pytest测试框架 1.md",
-    "Obsidian/Obsidian Vault Git 同步配置流程.md",
-    "Obsidian/Obsidian退烧教程.md",
-    "QA skiills/面试题/测试用例.pdf",
-    "Python/python使用.md",
+    "python自动化",
+    "雅思英语/水果英语单词.md",
+    "雅思英语/身体动作英语单词.md",
+    "雅思英语/日常情景英语短语.md",
+    "雅思英语/生活作息英语单词.md",
+    "雅思英语/生活用品英语单词.md",
     "Pasted image 20251009165132.png",
     "Python/文件读写处理.md",
     "Python/try｜except.md",
     "Python/装饰器.md",
     "Python/函数实战.md",
+    "Python/python函数.md",
     "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
     "雅思英语",
-    "python自动化",
-    "QA skiills/面试题/面试题2025.pdf",
-    "QA skiills/面试题/电商项目介绍.pdf",
+    "Python/python自动化",
     "Pasted image 20250926164431.png",
     "Pasted image 20250926164251.png",
     "Pasted image 20250926105059.png",
@@ -227,10 +227,7 @@
     "Pasted image 20250707170346.png",
     "Pasted image 20250623162914.png",
     "Pasted image 20250926110119.png",
-    "Pasted image 20250926105356.png",
     "Obsidian/css分享/预览模式优化-空白行-行间距.css",
-    "Obsidian/css分享/表格优化.css",
-    "Obsidian/css分享/网格背景.css",
     "QA skiills/未命名.canvas",
     "未命名.canvas"
   ]

@@ -19,7 +19,7 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -30,20 +30,23 @@
       "color": "orange",
       "unsynced": [
         "d0a8e97c89309fbf",
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ]
     },
     "Linux": {
       "icon": "lucide-play",
       "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ],
       "color": "orange"
     },
     "Obsidian": {
       "icon": "obsidian-new",
       "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ]
     },
     "Obsidian/Obsidian Vault Git 同步配置流程.md": {
@@ -56,14 +59,16 @@
     "PHP": {
       "icon": "lucide-play",
       "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ],
       "color": "orange"
     },
     "Python": {
       "icon": "lucide-play",
       "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ],
       "color": "orange"
     },
@@ -110,19 +115,15 @@
       "icon": "lucide-clipboard-pen-line",
       "color": "orange",
       "unsynced": [
-        "3501840a745009c2"
-      ]
-    },
-    "python自动化": {
-      "color": "red",
-      "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ]
     },
     "测试笔记": {
       "icon": "lucide-notebook-pen",
       "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ],
       "color": "green"
     },
@@ -130,7 +131,8 @@
       "icon": "lucide-file",
       "color": "orange",
       "unsynced": [
-        "3501840a745009c2"
+        "3501840a745009c2",
+        "9f24e49827327e41"
       ]
     }
   },
