@@ -66,12 +66,8 @@
       "雅思英语/聊天常用英语短语.md",
       "雅思英语/做饭常用动词.md"
     ],
-    "Go": [
-      "Go/未命名.md"
-    ],
-    "Linux": [
-      "Linux/处理目录的常用命令.md"
-    ],
+    "Go": [],
+    "Linux": [],
     "Obsidian": [
       "Obsidian/css分享",
       "Obsidian/Obsidian退烧教程.md",
@@ -126,6 +122,7 @@
       "QA skiills/面试题"
     ],
     "QA skiills/面试题": [
+      "QA skiills/面试题/面试题-自用版.md",
       "QA skiills/面试题/你觉得服务端测试对你来说挑战性比较大的是什么.md",
       "QA skiills/面试题/测试用例.pdf",
       "QA skiills/面试题/电商项目介绍.pdf",
