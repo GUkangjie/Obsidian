@@ -11,10 +11,14 @@
             "id": "291a0f2a92c11061",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "QA skiills/面试题/面试题-自用版.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "面试题-自用版"
             }
           }
         ]
@@ -182,6 +186,16 @@
   },
   "active": "291a0f2a92c11061",
   "lastOpenFiles": [
+    "雅思英语/做饭常用动词.md",
+    "雅思英语/Student-Book-with-Answers.pdf",
+    "python自动化/接口自动化.md",
+    "QA skiills/面试题/面试题-自用版.md",
+    "QA skiills/面试题/你觉得服务端测试对你来说挑战性比较大的是什么.md",
+    "Python/python面试提问.md",
+    "Pasted image 20251011151725.png",
+    "Pasted image 20251011151627.png",
+    "PHP/类型比较.md",
+    "PHP/php数据类型.md",
     "未命名 1.base",
     "未命名.base",
     "Pasted image 20251201231135.png",
@@ -209,25 +223,15 @@
     "雅思英语/身体动作英语单词.md",
     "雅思英语/日常情景英语短语.md",
     "雅思英语/生活作息英语单词.md",
-    "雅思英语/生活用品英语单词.md",
     "Pasted image 20251009165132.png",
-    "Python/文件读写处理.md",
-    "Python/try｜except.md",
-    "Python/装饰器.md",
-    "Python/函数实战.md",
-    "Python/python函数.md",
     "QA skiills/MarkDown超级教程 Obsidian版 2022.1.12.pdf",
     "雅思英语",
-    "Python/python自动化",
     "Pasted image 20250926164431.png",
     "Pasted image 20250926164251.png",
     "Pasted image 20250926105059.png",
     "Pasted image 20250926105030.png",
     "Pasted image 20250926105537.png",
     "Pasted image 20250707170346.png",
-    "Pasted image 20250623162914.png",
-    "Pasted image 20250926110119.png",
-    "Obsidian/css分享/预览模式优化-空白行-行间距.css",
     "QA skiills/未命名.canvas",
     "未命名.canvas"
   ]

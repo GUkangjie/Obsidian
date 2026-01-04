@@ -33,5 +33,16 @@ t2();
 ?>
 ```
 `static` 静态作用域
- 每次调用函数时， 该变量将会保留请前函的前被调用的值一次
+每次调用函数时， 该变量将会保留请前函的前被调用的值一次
+```php
+function countCalls() {
+    static $count = 0; // 只在第一次调用时初始化
+    $count++;
+    echo "调用了 $count 次\n";
+}
+
+countCalls(); // 调用了 1 次
+countCalls(); // 调用了 2 次
+countCalls(); // 调用了 3 次
+```
 `parameter` 参数作用域

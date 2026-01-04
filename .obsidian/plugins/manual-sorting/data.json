@@ -1,6 +1,8 @@
 {
   "customFileOrder": {
     "/": [
+      "Pasted image 20251011151627.png",
+      "Pasted image 20251011151725.png",
       "未命名 1.base",
       "未命名.base",
       "Pasted image 20251201231135.png",
@@ -9,7 +11,6 @@
       "QA skiills",
       "测试笔记",
       "Python",
-      "Linux",
       "PHP",
       "Obsidian",
       "Pasted image 20250623162914.png",
@@ -55,6 +56,8 @@
       "测试笔记/URL编码和解码.md"
     ],
     "雅思英语": [
+      "雅思英语/Student-Book-with-Answers.pdf",
+      "雅思英语/做饭常用动词.md",
       "雅思英语/聊天常用英语短语.md",
       "雅思英语/肉食英语单词.md",
       "雅思英语/水果英语单词.md",
@@ -63,9 +66,6 @@
       "雅思英语/生活作息英语单词.md",
       "雅思英语/日常情景英语短语.md",
       "雅思英语/身体动作英语单词.md"
-    ],
-    "Linux": [
-      "Linux/处理目录的常用命令.md"
     ],
     "Obsidian": [
       "Obsidian/css分享",
@@ -81,11 +81,14 @@
       "Obsidian/css分享/预览模式优化-空白行-行间距.css"
     ],
     "PHP": [
+      "PHP/php数据类型.md",
+      "PHP/类型比较.md",
       "PHP/ODP项目流程熟悉.md",
       "PHP/php基本规则.md",
       "PHP/php变量.md"
     ],
     "Python": [
+      "Python/python面试提问.md",
       "Python/python使用.md",
       "Python/列表操作.md",
       "Python/元组.md",
@@ -100,6 +103,7 @@
       "Python/文件读写处理.md"
     ],
     "python自动化": [
+      "python自动化/接口自动化.md",
       "python自动化/pytest测试框架",
       "python自动化/requests快速掌握.md",
       "python自动化/日志、报告、插件等封装.md"
@@ -118,7 +122,8 @@
       "QA skiills/面试题"
     ],
     "QA skiills/面试题": [
-      "QA skiills/面试题/你觉得服务端测试对你来说对你挑战性比较大的是什么.md",
+      "QA skiills/面试题/面试题-自用版.md",
+      "QA skiills/面试题/你觉得服务端测试对你来说挑战性比较大的是什么.md",
       "QA skiills/面试题/测试用例.pdf",
       "QA skiills/面试题/电商项目介绍.pdf",
       "QA skiills/面试题/面试题2025.pdf",
