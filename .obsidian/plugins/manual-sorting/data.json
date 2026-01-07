@@ -1,22 +1,24 @@
 {
   "customFileOrder": {
     "/": [
-      "Pasted image 20251011151627.png",
-      "Pasted image 20251011151725.png",
+      "Pasted image 20251201231135.png",
       "未命名 1.base",
       "未命名.base",
-      "Pasted image 20251201231135.png",
       "python自动化",
-      "雅思英语",
       "QA skiills",
+      "雅思英语",
       "测试笔记",
       "Python",
+      "Go",
+      "Linux",
       "PHP",
       "Obsidian",
       "Pasted image 20250623162914.png",
       "Pasted image 20250925224652.png",
       "Pasted image 20250926164431.png",
       "Pasted image 20250926164251.png",
+      "Pasted image 20251011151725.png",
+      "Pasted image 20251011151627.png",
       "Pasted image 20250926105030.png",
       "Pasted image 20250926105059.png",
       "Pasted image 20250925224105.png",
@@ -57,16 +59,18 @@
     ],
     "雅思英语": [
       "雅思英语/Student-Book-with-Answers.pdf",
-      "雅思英语/做饭常用动词.md",
-      "雅思英语/聊天常用英语短语.md",
       "雅思英语/肉食英语单词.md",
       "雅思英语/水果英语单词.md",
       "雅思英语/蔬菜英语单词.md",
       "雅思英语/生活用品英语单词.md",
       "雅思英语/生活作息英语单词.md",
       "雅思英语/日常情景英语短语.md",
-      "雅思英语/身体动作英语单词.md"
+      "雅思英语/身体动作英语单词.md",
+      "雅思英语/聊天常用英语短语.md",
+      "雅思英语/做饭常用动词.md"
     ],
+    "Go": [],
+    "Linux": [],
     "Obsidian": [
       "Obsidian/css分享",
       "Obsidian/Obsidian退烧教程.md",
@@ -81,11 +85,11 @@
       "Obsidian/css分享/预览模式优化-空白行-行间距.css"
     ],
     "PHP": [
-      "PHP/php数据类型.md",
-      "PHP/类型比较.md",
       "PHP/ODP项目流程熟悉.md",
       "PHP/php基本规则.md",
-      "PHP/php变量.md"
+      "PHP/php变量.md",
+      "PHP/php数据类型.md",
+      "PHP/类型比较.md"
     ],
     "Python": [
       "Python/python面试提问.md",
@@ -109,10 +113,10 @@
       "python自动化/日志、报告、插件等封装.md"
     ],
     "python自动化/pytest测试框架": [
-      "python自动化/pytest测试框架/mark.md",
-      "python自动化/pytest测试框架/fixture.md",
+      "python自动化/pytest测试框架/pytest快速掌握.md",
       "python自动化/pytest测试框架/pytest参数.md",
-      "python自动化/pytest测试框架/pytest快速掌握.md"
+      "python自动化/pytest测试框架/mark.md",
+      "python自动化/pytest测试框架/fixture.md"
     ],
     "QA skiills": [
       "QA skiills/websocket接口.md",
