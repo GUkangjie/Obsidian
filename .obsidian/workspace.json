@@ -41,26 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian Vault Git 同步配置流程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian Vault Git 同步配置流程"
-            }
-          },
-          {
-            "id": "063a25295f2a7bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "QA skiills/面试题/面试题-自用版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "面试题-自用版"
+            }
+          },
+          {
+            "id": "f7cd3f60cbd2847e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "QA skiills/面试题/面试题2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "面试题2025"
             }
           }
         ],
@@ -228,12 +226,12 @@
   },
   "active": "1273f47ace75fcc6",
   "lastOpenFiles": [
+    "QA skiills/面试题/面试题2025.pdf",
     "QA skiills/面试题/面试题-自用版.md",
     "Obsidian/Obsidian Vault Git 同步配置流程.md",
     "Obsidian/Obsidian退烧教程.md",
     "QA skiills/面试题/测试有没有遇到过线上bug或漏测？.md",
     "QA skiills/面试题/你做过客户端测试还是服务端测试？.md",
-    "QA skiills/面试题/面试题2025.pdf",
     "python自动化/接口自动化.md",
     "未命名.base",
     "未命名 1.base",
@@ -262,7 +260,6 @@
     "雅思英语/肉食英语单词.md",
     "雅思英语/Student-Book-with-Answers.pdf",
     "python自动化/pytest测试框架/pytest参数.md",
-    "python自动化/pytest测试框架/pytest快速掌握.md",
     "Pasted image 20251011151725.png",
     "Pasted image 20251011151627.png",
     "python自动化/pytest测试框架",
